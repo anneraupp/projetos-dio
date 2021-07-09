@@ -196,7 +196,7 @@ body {
     }
     
 
-@media (max-width: 650px) {
+@media (max-width: 500px) {
     body {
         background-color: #ffffff;
     }
@@ -217,10 +217,3 @@ body {
         border: 1px solid transparent;
     }
 }
-    
-    /* Portrait and Landscape */
-@media only screen 
-  and (min-device-width: 375px) 
-  and (max-device-width: 667px) 
-  and (-webkit-min-device-pixel-ratio: 2)
-  and (orientation: portrait) { 
