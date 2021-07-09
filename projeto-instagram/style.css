@@ -211,7 +211,9 @@ body {
     }
     .instagram-continue {
         width: 100%;
-        justify-content: center;
+        justify-content: space-around;
+        min-height: 34rem;
+    
   
     }
     
