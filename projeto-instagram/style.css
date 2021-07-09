@@ -201,12 +201,11 @@ body {
         background-color: #ffffff;
     }
     .instagram-wrapper {
-        width: 80%;
+        width: 70%;
     }
     .instagram-phone {
         display: none;
-        margin-left: 0;
-        margin-right: 0;
+
     }
     .instagram-continue {
         width: 80%;
@@ -217,28 +216,3 @@ body {
         border: 1px solid transparent;
     }
 }
-
-    @media only screen 
-    and (device-width : 375px) 
-    and (device-height : 667px) 
-    and (-webkit-device-pixel-ratio : 2) { 
-        body {
-        background-color: #ffffff;
-    }
-    .instagram-wrapper {
-        width: 80%;
-    }
-    .instagram-phone {
-        display: none;
-        margin-left: 0;
-        margin-right: 0;
-    }
-    .instagram-continue {
-        width: 80%;
-  
-    }
-
-    .group {
-        border: 1px solid transparent;
-    }
-    }
