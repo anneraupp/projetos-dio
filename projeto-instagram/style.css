@@ -215,6 +215,8 @@ body {
     }
     
     .app-download {
+    height: 41px;
+    width: 180px;
     background-size: contain;
     }
 
