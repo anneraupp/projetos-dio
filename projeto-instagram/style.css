@@ -205,6 +205,8 @@ body {
     }
     .instagram-phone {
         display: none;
+        margin-left: 0;
+        margin-right: 0;
     }
     .instagram-continue {
         width: 100%;
