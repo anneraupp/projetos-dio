@@ -202,7 +202,7 @@ body {
     }
     .instagram-wrapper {
         width: 70%;
-        justify-content: center;
+        justify-content: space-evenly;
     }
     .instagram-phone {
         display: none;
