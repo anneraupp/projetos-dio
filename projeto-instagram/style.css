@@ -209,11 +209,17 @@ body {
 
     }
     .instagram-continue {
-        width: 90%;
+        width: 100%;
   
+    }
+    
+    .app-download {
+    height: 2.9rem;
+    width: 12rem;
+    background-size: contain;
     }
 
     .group {
         border: 1px solid transparent;
     }
-}
+    }
