@@ -119,22 +119,20 @@ body {
 }
 
 .app-download {
-    height: 80%;
-    width: 80%;
+    height: 41px;
+    width: 180px;
     background-size: contain;
 }
 
 .app-download:nth-child(1) {
     background-image: url('img/apple-button.png');
-    width: 306px;
-    height: 90px;
+
     
 }
 
 .app-download:nth-child(2) {
     background-image: url('img/googleplay-button.png');
-    width: 306px;
-    height: 90px;
+
 }
 
 .footer {
