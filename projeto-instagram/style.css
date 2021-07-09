@@ -45,7 +45,7 @@ body {
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical */
     flex-direction: column;
-    width: 100%;
+    width: 50%;
     min-height: 34rem;
     max-width: 350px
 }
