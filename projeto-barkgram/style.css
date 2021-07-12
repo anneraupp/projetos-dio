@@ -119,19 +119,20 @@ body {
 }
 
 .app-download {
-    height: 2.9rem;
-    width: 12rem;
+    height: 3rem;
+    width: 12.857rem;
     background-size: contain;
 }
 
 .app-download:nth-child(1) {
     background-image: url('img/apple-button.png');
+
     
 }
 
 .app-download:nth-child(2) {
     background-image: url('img/googleplay-button.png');
-    
+
 }
 
 .footer {
@@ -196,21 +197,33 @@ body {
     }
     
 
-@media (max-width: 650px) {
+@media (max-width: 500px) {
     body {
         background-color: #ffffff;
     }
     .instagram-wrapper {
         width: 100%;
+        align-items: center;
     }
     .instagram-phone {
         display: none;
+
     }
     .instagram-continue {
         width: 100%;
+        justify-content: space-around;
+        min-height: 34rem;
+    
+  
+    }
+    
+    .app-download {
+    height: 3rem;
+    width: 12.857rem;
+    background-size: contain;
     }
 
     .group {
         border: 1px solid transparent;
     }
-}
+    }
