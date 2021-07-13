@@ -9,6 +9,7 @@ Nesse projeto o objetivo era reconstruir a página inicial de login do Instagram
 Para este projeto criei uma versão do Instagram para cachorros, chamado "Barkgram" e adicionei alguns detalhes além da proposta inicial, como o rodapé com links.
 
 Link: https://anneraupp.github.io/projetos-dio/projeto-barkgram/
+Tutora/Expert: http://www.github.com/SpruceGabriela
 
 
 
